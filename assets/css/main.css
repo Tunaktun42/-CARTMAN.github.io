@@ -1437,25 +1437,3 @@
 {
 	color: #ffffff;
 }
-
-#box1
-{
-	position: relative;
-	left: 235px;
-}
-#box2
-{
-	position: relative;
-	left: 250px;
-}
-#box3
-{
-	position: relative;
-	top: 625px;
-	right: 235px;
-}
-#box4
-{
-	position: relative;
-	right: 250px;
-}
